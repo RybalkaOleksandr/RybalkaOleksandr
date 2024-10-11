@@ -1,4 +1,5 @@
 Hi there, I am Oleksandr 👋
+---
 Full-stack JS developer from Ukraine 🇺🇦 with more than 1 year of experience in software development and with master's degree in computer science.
 📈 Experience
 I have worked on different projects, one of which was developed from scratch. My expertise includes web development, database design, and integration of third-party services.
