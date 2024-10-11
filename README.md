@@ -1,16 +1,23 @@
-## Hi there 👋
+Hi there, I am Oleksandr 👋
+Full-stack JS developer from Ukraine 🇺🇦 with more than 1 year of experience in software development and with master's degree in computer science.
+📈 Experience
+I have worked on different projects, one of which was developed from scratch. My expertise includes web development, database design, and integration of third-party services.
 
-<!--
-**RybalkaOleksandr/RybalkaOleksandr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Goals
+I aim to continuously enhance my skills and explore new technologies.
 
-Here are some ideas to get you started:
+💼 Skills
+Languages: JavaScript, TypeScript
+Server-Side: Node.js, NestJS, Express
+API: REST, GraphQL
+Client-Side: React, Next.js, Redux, MobX
+Databases: PostgreSQL, MongoDB
+User Interface: Ant Design, Bootstrap, CSS, Sass, Less
+Testing Libraries: Jest
+Cloud Solutions: AWS
+Third party: Zoho
+📫 Contact
+Feel free to reach out if you'd like to collaborate or learn more about my work!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+LinkedIn
+Email
